@@ -8,4 +8,4 @@ Tout est ok ici
 Je continue ma logique d'amélioration
 
 Et je rajoute une modification depuis github
-Mais aussi depuis le terminal/machine local plutôt
+Mais aussi depuis le terminal/machine local plutôt  --> trop bien / amazing
