@@ -6,3 +6,5 @@ for if (a==true)
 {
 	/* code */
 };
+
+"je rajoute nimporte quoi"
